@@ -1,0 +1,14 @@
+# Build artifacts
+encrypt_app
+*.o
+*.out
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
